@@ -39,6 +39,10 @@
 ![RestAPI](https://img.shields.io/badge/restapi-%23646CFF.svg?style=for-the-badge&logo=restapi&logoColor=white)
 ![pytest](https://img.shields.io/badge/pytest-%2300AFF0.svg?style=for-the-badge&logo=pytest&logoColor=white)
 
+---
+
+### :fire: Моя статистика :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tortuga0212&theme=python-dark)](https://git.io/streak-stats)
 
 
 
