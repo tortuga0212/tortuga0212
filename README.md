@@ -42,7 +42,7 @@
 ---
 
 ### :fire: Моя статистика :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tortuga0212&theme=python-dark)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tortuga0212&theme=python-dark&locale=ru)](https://git.io/streak-stats)
 
 
 
